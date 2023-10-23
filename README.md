@@ -10,7 +10,7 @@ Sou um estudante de Sistemas de Informação com uma mente curiosa e grande apre
 <hr>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonmunizs&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinumz&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmunizs&layout=compact&theme=tokyonight"/>
   </div>
 
 <hr>
