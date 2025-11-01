@@ -2,7 +2,7 @@
 <hr>
   <ul>
     <li>🎓Graduando em Sistemas de Informação</li>
-    <li>🔎Interesse na área de Desenvolvimento e Segurança da Informação</li>
+    <li>🔎Interesse na área de DevOps e Segurança da Informação</li>
     <li>🌐 Familiaridade com tecnologias de banco de dados como SQL</li>
   </ul>
 <hr>
