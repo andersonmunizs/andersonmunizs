@@ -1,7 +1,5 @@
 ### Olá Mundo! Eu sou Anderson Muniz 👋
 <hr>
-Sou um estudante de Sistemas de Informação com uma mente curiosa e grande apreço pela tecnologia. Com sede de conhecimento e determinação para enfrentar desafios, estou em busca de oportunidades para aplicar minha paixão por resolução de problemas.
-<hr>
   <ul>
     <li>🎓Graduando em Sistemas de Informação</li>
     <li>🔎Interesse na área de Desenvolvimento e Segurança da Informação</li>
